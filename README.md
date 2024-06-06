@@ -1,4 +1,5 @@
-Almax Frontend Project: Myntra Clone
+Almax Frontend Project: Myntra Clone, 
+
 Live Link - https://myntraclone-983ef.web.app/
 
 Overview
