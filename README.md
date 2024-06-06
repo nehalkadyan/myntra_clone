@@ -19,7 +19,7 @@ State Management: Redux Toolkit
 Usage
 To run the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/myntra-clone.git
+Clone the repository: git clone https://github.com/nehalkadyan/myntra-clone.git
 Navigate to the project directory: cd client
 Install dependencies: npm install
 Start the development server: npm start
